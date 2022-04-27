@@ -22,6 +22,7 @@ circle(250, 250,200);
 textSize(50);
 
 text("Hellokjdkjdkdjkdj", 190, 270);
+System.out.println("hi");
 
 
 }
