@@ -13,15 +13,15 @@ public class Main
         processing.core.PApplet.runSketch( a, new MyVisual());		
 	}
 
-	public void Test()
+	public void assignment()
 	{
 		String[] a = {"MAIN"};
-        processing.core.PApplet.runSketch( a, new Test());		
+        processing.core.PApplet.runSketch( a, new D21125383.assignment());		
 	}
 	public static void main(String[] args)
 	{
 		Main main = new Main();
-		main.Test();			
+		main.assignment();			
 	}
 
 	
