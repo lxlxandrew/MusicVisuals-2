@@ -18,10 +18,19 @@ public class Main
 		String[] a = {"MAIN"};
         processing.core.PApplet.runSketch( a, new D21125383.assignment());		
 	}
+
+	public static void caAssignmentLaura()
+	{
+		String[] a = {"MAIN"};
+        processing.core.PApplet.runSketch( a, new D21125370.caAssignment());		
+	}
+
 	public static void main(String[] args)
 	{
-		Main main = new Main();
-		main.assignment();			
+		//Main main = new Main();
+		//main.assignment();	
+		
+		caAssignmentLaura();
 	}
 
 	
